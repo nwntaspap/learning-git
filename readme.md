@@ -1,4 +1,5 @@
-## asdasdasdasdasdasdasdasdasdasdasd
+## Welcome to Git!
 
-- This is coming from John!
-- i'm adding this from feature-branch
+- This is John!
+- This is coming from `dev-nwntas`
+- i'm adding this from `feature-branch`
